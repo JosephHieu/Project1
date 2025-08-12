@@ -5,3 +5,7 @@
 #### I just make this for fun and pratice some exercises.
 
 #### You can take this for fun too.
+
+#### Some Basic coding.
+
+#### Knowleage requires: elements for html, tag, flex ... for css
